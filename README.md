@@ -21,8 +21,6 @@ FoodFrenzy is a comprehensive system designed for managing customers, inventory,
 - **Database**: MySQL
 - **IDE**: Eclipse, Spring Tool Suite (STS)
 
-5. Access the application:
-    - Navigate to `http://localhost:8080` in your browser. 
 ## Website Screenshot
 
 Here is a preview of the FoodFrenzy interface:
